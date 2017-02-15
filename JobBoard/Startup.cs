@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using JobBoard.Data;
 using JobBoard.Models;
 using JobBoard.Services;
+using JobBoard.Models.SeedDataModel;
 
 namespace JobBoard
 { 
@@ -83,6 +84,8 @@ namespace JobBoard
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            SeedData.InitializeDb(app.ApplicationServices);
         }
     }
 }

@@ -8,6 +8,7 @@ using JobBoard.Models;
 using JobBoard.Models.JobModel;
 using JobBoard.Models.PlaceModel;
 using JobBoard.Models.WebsiteModel;
+using JobBoard.Models.JsonJobModel;
 
 namespace JobBoard.Data
 {
@@ -31,5 +32,6 @@ namespace JobBoard.Data
         public DbSet<JobID> JobID { get; set; }
         public DbSet<PlaceID> PlaceID { get; set; }
         public DbSet<WebsiteID> WebsiteID { get; set; }
+        public DbSet<JsonJob> JsonJob { get; set; }
     }
 }

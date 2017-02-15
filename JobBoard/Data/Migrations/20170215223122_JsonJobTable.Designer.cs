@@ -8,9 +8,10 @@ using JobBoard.Data;
 namespace JobBoard.Data.Migrations
 {
     [DbContext(typeof(JobBoardDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20170215223122_JsonJobTable")]
+    partial class JsonJobTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")

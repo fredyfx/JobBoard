@@ -230,6 +230,8 @@ C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\AccountController.c
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\CompanyIDsController.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\HomeController.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\JobIDsController.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\JsonJobContentController.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\JsonJobsController.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\ManageController.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\PlaceIDsController.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Controllers\UserIDsController.cs
@@ -241,6 +243,8 @@ C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170214003713_
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170214003713_Initial.Designer.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170214202111_WebsiteIDUpdate.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170214202111_WebsiteIDUpdate.Designer.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170215223122_JsonJobTable.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\20170215223122_JsonJobTable.Designer.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ApplicationUser.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
@@ -252,6 +256,7 @@ C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\AccountViewModels\SendCo
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\AccountViewModels\VerifyCodeViewModel.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\CompanyModel\CompanyID.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\JobModel\JobID.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\JsonJobModel\JsonJob.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\AddPhoneNumberViewModel.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\ChangePasswordViewModel.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
@@ -262,6 +267,7 @@ C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\RemoveL
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\SetPasswordViewModel.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\PlaceModel\PlaceID.cs
+C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\SeedDataModel\SeedData.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\UserModel\UserID.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Models\WebsiteModel\WebsiteID.cs
 C:\Users\Gary\Documents\GitHub\JobBoard\JobBoard\Services\IEmailSender.cs
