@@ -24,8 +24,6 @@ namespace JobBoard.Models.SeedDataModel
                     return; // db has already been seeded
                 }
 
-                
-
                 context.JsonJob.AddRange(
                     new JsonJob
                     {
@@ -37,8 +35,8 @@ namespace JobBoard.Models.SeedDataModel
                         JobID = "",
                         JobTitle = "Project Area Manager, Washington County",
                         LanguagesUsed = "",
-                        Location = "",
-                        Salary = "Portland Metro"
+                        Location = "Portland Metro",
+                        Salary = ""
                     },
 
                     new JsonJob
